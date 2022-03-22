@@ -2,7 +2,7 @@
 Kodluyoruz Html Dersleri 2.ödevi
 
 [Kodluyoruz](https://www.kodluyoruz.org) Front-End/HTML dersi 2.ödev.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
-![](/img/ekran.png)
+![](images/main.png)
 
 # Installation
 
